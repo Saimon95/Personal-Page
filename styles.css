@@ -36,13 +36,13 @@ html {
 }
 
 .font-size-title{
-  font-size: 36px;
+  font-size: 50px;
   font-weight: bold;
 }
 
 .container-banner{
   max-width: 100% !important;
-  height: 75vh !important;
+  height: 100vh !important;
 }
 
 
