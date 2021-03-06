@@ -31,7 +31,7 @@ html {
 
 .container-banner{
   max-width: 100% !important;
-  height: 100vh !important;
+  height: calc(100vh - 50px) !important;
 }
 
 
